@@ -1,0 +1,17 @@
+C:\Users\reonr\source\repos\3\NCB.Models\bin\Debug\net6.0\NCB.Models.deps.json
+C:\Users\reonr\source\repos\3\NCB.Models\bin\Debug\net6.0\NCB.Models.runtimeconfig.json
+C:\Users\reonr\source\repos\3\NCB.Models\bin\Debug\net6.0\NCB.Models.dll
+C:\Users\reonr\source\repos\3\NCB.Models\bin\Debug\net6.0\NCB.Models.pdb
+C:\Users\reonr\source\repos\3\NCB.Models\bin\Debug\net6.0\_1903966_Milestone2.Models.dll
+C:\Users\reonr\source\repos\3\NCB.Models\bin\Debug\net6.0\_1903966_Milestone2.Models.pdb
+C:\Users\reonr\source\repos\3\NCB.Models\obj\Debug\net6.0\NCB.Models.csproj.AssemblyReference.cache
+C:\Users\reonr\source\repos\3\NCB.Models\obj\Debug\net6.0\NCB.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reonr\source\repos\3\NCB.Models\obj\Debug\net6.0\NCB.Models.AssemblyInfoInputs.cache
+C:\Users\reonr\source\repos\3\NCB.Models\obj\Debug\net6.0\NCB.Models.AssemblyInfo.cs
+C:\Users\reonr\source\repos\3\NCB.Models\obj\Debug\net6.0\NCB.Models.csproj.CoreCompileInputs.cache
+C:\Users\reonr\source\repos\3\NCB.Models\obj\Debug\net6.0\NCB.Models.csproj.CopyComplete
+C:\Users\reonr\source\repos\3\NCB.Models\obj\Debug\net6.0\NCB.Models.dll
+C:\Users\reonr\source\repos\3\NCB.Models\obj\Debug\net6.0\refint\NCB.Models.dll
+C:\Users\reonr\source\repos\3\NCB.Models\obj\Debug\net6.0\NCB.Models.pdb
+C:\Users\reonr\source\repos\3\NCB.Models\obj\Debug\net6.0\NCB.Models.genruntimeconfig.cache
+C:\Users\reonr\source\repos\3\NCB.Models\obj\Debug\net6.0\ref\NCB.Models.dll

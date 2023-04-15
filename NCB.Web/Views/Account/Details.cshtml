@@ -1,0 +1,44 @@
+﻿﻿
+
+@model IEnumerable<AccountDTO>
+@{
+    ViewData["Title"] = "Account";
+}
+<h1>Accounts Detail</h1>
+
+<table class="table table-striped">
+    <thead class="table-dark">
+        <tr class="fw-bold">
+        <tr>
+            <th>Name</th>
+            <th>Account Number</th>
+            <th>Account Type</th>
+            <th>Currency</th>
+            <th>Balance</th>
+            <th>Card Number</th>
+            <th>Card Expiry Date</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        ﻿
+
+        @foreach (var item in Model)
+        {
+            <tr style="vertical-align:middle">
+                <td>
+                    @Html.DisplayFor(modelItem => item.User.Name)
+                </td>
+                <td>@Html.DisplayFor(modelItem => item.AccountNumber)</td>
+                <td>@Html.DisplayFor(modelItem => item.AccountType)</td>
+                <td>@Html.DisplayFor(modelItem => item.Currency.ShortName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Balance)</td>
+                <td>@Html.DisplayFor(modelItem => item.CardNumber)</td>
+                <td>@Html.DisplayFor(modelItem => item.CardExpirationDate)</td>
+            </tr>
+           }
+
+            
+    </tbody>
+</table>
+

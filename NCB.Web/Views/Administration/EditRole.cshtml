@@ -1,0 +1,80 @@
+﻿@model RoleDTO
+
+@{
+    ViewData["Title"] = "Edit Role";
+}
+<h1>Roles Management</h1>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<form asp-action="EditRole">
+    <table class="table">
+        <thread>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model=> model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model=> model.Name)
+                </th>
+            </tr>
+        </thread>
+        <tbody>
+            <tr>
+                <td>
+                    <div class="form-group">
+                        <input asp-for="Id" disabled class="form-control" />
+                    </div>
+                </td>
+                <td>
+                    <div class="form-group">
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                </td>
+                <td>
+                    <input type="submit" class="btn btn-primary" asp-action="EditRole" />
+                    <a class="btn btn-primary" asp-action="ListRoles">Cancel</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    ﻿
+
+    <h2>Users in this role</h2>
+    @if (Model.Users?.Any() == true)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        UserName
+                    </th>
+                    <th>
+                        Email Address
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                ﻿
+
+                @foreach (var user in Model.Users)
+                {
+                    <tr>
+                        <td>
+                            @user.UserName
+                        </td>
+                        <td>
+                            @user.Email
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <h4>No Users in this Role</h4>
+    }
+    <a class="btn btn-primary" asp-action="EditUsersInRole" asp-route-id="@Model.Id">Manage Users in Role</a>
+</form>

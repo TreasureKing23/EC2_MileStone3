@@ -1,0 +1,83 @@
+﻿@model UserDTO
+
+
+@{
+    ViewData["Title"] = "Edit User";
+}
+
+﻿
+
+<h1>Edit User</h1>
+@if (TempData["AlertMsg"] != null)
+{
+    <div class="alert alert-success">
+        <strong>Success! </strong>@TempData["AlertMsg"]
+        <button type="button" class="close" data-dismiss="alert">
+            <span>&times;</span>
+        </button>
+    </div>
+}
+
+<div class="row">
+    <div>
+        <form id="createUserForm" asp-action="EditUser" method="post" enctype="multipart/form-data">
+            <hr />
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="card-group col-8">
+                <div class="card">
+                    <div class="form-floating mb-1">
+                        <input asp-for="Name" class="form-control" aria-required="true" />
+                        <label asp-for="Name"></label>
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating mb-1">
+                        <input asp-for="Email" class="form-control" autocomplete="username" aria-required="true" />
+                        <label asp-for="Email"></label>
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating mb-1">
+                        <input asp-for="Address" class="form-control" aria-required="true" />
+                        <label asp-for="Address"></label>
+                        <span asp-validation-for="Address" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating mb-1">
+                        <input asp-for="UserName" class="form-control" aria-required="true" />
+                        <label asp-for="UserName"></label>
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+
+                    <div class="d-grid gap-1">
+                        <button asp-action="EditUser" value="Update User" type="submit" class="btn btn-primary">CreateUser</button>
+                        <a class="btn btn-warning" asp-action="ListUsers">Back to List  </a>
+                    </div>
+                </div>
+            </div>
+            <div class="card-group col-8 mt-5">
+                <div class="card">
+                    <h2 class="mt-5">Assigned Roles</h2>
+                    <label>Roles</label>
+                    @Html.ListBoxFor(model => model.Roles, new MultiSelectList(ViewBag.Roles,"Name", "Name"),
+                        new {id= "multiSelectDropDown", @class="form-control chosen", multiple = "multiple"})
+                    <div class="d-grid gap-2" mt-3>
+                        <button type="submit" class="btn btn-primary" asp-route-id="@Model.Id" asp-action="UpdateUserRoles">Update</button>
+                    </div>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+ ﻿
+
+@section Scripts
+    {
+    <script>
+        $(function () {
+
+            //normal dropdown
+            $(".chosen").chosen();
+            //multiselect dropdown
+        });
+    </script>
+}

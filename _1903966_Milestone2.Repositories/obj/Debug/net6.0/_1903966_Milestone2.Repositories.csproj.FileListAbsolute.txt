@@ -1,0 +1,17 @@
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\bin\Debug\net6.0\_1903966_Milestone2.Repositories.deps.json
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\bin\Debug\net6.0\_1903966_Milestone2.Repositories.runtimeconfig.json
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\bin\Debug\net6.0\_1903966_Milestone2.Repositories.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\bin\Debug\net6.0\_1903966_Milestone2.Repositories.pdb
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\bin\Debug\net6.0\_1903966_Milestone2.Models.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\bin\Debug\net6.0\_1903966_Milestone2.Models.pdb
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\obj\Debug\net6.0\_1903966_Milestone2.Repositories.csproj.AssemblyReference.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\obj\Debug\net6.0\_1903966_Milestone2.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\obj\Debug\net6.0\_1903966_Milestone2.Repositories.AssemblyInfoInputs.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\obj\Debug\net6.0\_1903966_Milestone2.Repositories.AssemblyInfo.cs
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\obj\Debug\net6.0\_1903966_Milestone2.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\obj\Debug\net6.0\_1903966_Milestone2.Repositories.csproj.CopyComplete
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\obj\Debug\net6.0\_1903966_Milestone2.Repositories.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\obj\Debug\net6.0\refint\_1903966_Milestone2.Repositories.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\obj\Debug\net6.0\_1903966_Milestone2.Repositories.pdb
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\obj\Debug\net6.0\_1903966_Milestone2.Repositories.genruntimeconfig.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Repositories\obj\Debug\net6.0\ref\_1903966_Milestone2.Repositories.dll

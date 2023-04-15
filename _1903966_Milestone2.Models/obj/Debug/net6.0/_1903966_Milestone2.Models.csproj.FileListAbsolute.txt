@@ -1,0 +1,14 @@
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\bin\Debug\net6.0\_1903966_Milestone2.Models.deps.json
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\bin\Debug\net6.0\_1903966_Milestone2.Models.runtimeconfig.json
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\bin\Debug\net6.0\_1903966_Milestone2.Models.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\bin\Debug\net6.0\_1903966_Milestone2.Models.pdb
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\obj\Debug\net6.0\_1903966_Milestone2.Models.csproj.AssemblyReference.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\obj\Debug\net6.0\_1903966_Milestone2.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\obj\Debug\net6.0\_1903966_Milestone2.Models.AssemblyInfoInputs.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\obj\Debug\net6.0\_1903966_Milestone2.Models.AssemblyInfo.cs
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\obj\Debug\net6.0\_1903966_Milestone2.Models.csproj.CoreCompileInputs.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\obj\Debug\net6.0\_1903966_Milestone2.Models.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\obj\Debug\net6.0\refint\_1903966_Milestone2.Models.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\obj\Debug\net6.0\_1903966_Milestone2.Models.pdb
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\obj\Debug\net6.0\_1903966_Milestone2.Models.genruntimeconfig.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Models\obj\Debug\net6.0\ref\_1903966_Milestone2.Models.dll

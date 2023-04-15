@@ -1,0 +1,17 @@
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\bin\Debug\net6.0\_1903966_Milestone2.ViewModels.deps.json
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\bin\Debug\net6.0\_1903966_Milestone2.ViewModels.runtimeconfig.json
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\bin\Debug\net6.0\_1903966_Milestone2.ViewModels.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\bin\Debug\net6.0\_1903966_Milestone2.ViewModels.pdb
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\bin\Debug\net6.0\_1903966_Milestone2.Models.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\bin\Debug\net6.0\_1903966_Milestone2.Models.pdb
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\obj\Debug\net6.0\_1903966_Milestone2.ViewModels.csproj.AssemblyReference.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\obj\Debug\net6.0\_1903966_Milestone2.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\obj\Debug\net6.0\_1903966_Milestone2.ViewModels.AssemblyInfoInputs.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\obj\Debug\net6.0\_1903966_Milestone2.ViewModels.AssemblyInfo.cs
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\obj\Debug\net6.0\_1903966_Milestone2.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\obj\Debug\net6.0\_1903966_Milestone2.ViewModels.csproj.CopyComplete
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\obj\Debug\net6.0\_1903966_Milestone2.ViewModels.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\obj\Debug\net6.0\refint\_1903966_Milestone2.ViewModels.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\obj\Debug\net6.0\_1903966_Milestone2.ViewModels.pdb
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\obj\Debug\net6.0\_1903966_Milestone2.ViewModels.genruntimeconfig.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.ViewModels\obj\Debug\net6.0\ref\_1903966_Milestone2.ViewModels.dll

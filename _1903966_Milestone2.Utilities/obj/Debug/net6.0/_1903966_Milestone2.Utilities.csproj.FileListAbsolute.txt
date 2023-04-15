@@ -1,0 +1,14 @@
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\bin\Debug\net6.0\_1903966_Milestone2.Utilities.deps.json
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\bin\Debug\net6.0\_1903966_Milestone2.Utilities.runtimeconfig.json
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\bin\Debug\net6.0\_1903966_Milestone2.Utilities.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\bin\Debug\net6.0\_1903966_Milestone2.Utilities.pdb
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\obj\Debug\net6.0\_1903966_Milestone2.Utilities.csproj.AssemblyReference.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\obj\Debug\net6.0\_1903966_Milestone2.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\obj\Debug\net6.0\_1903966_Milestone2.Utilities.AssemblyInfoInputs.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\obj\Debug\net6.0\_1903966_Milestone2.Utilities.AssemblyInfo.cs
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\obj\Debug\net6.0\_1903966_Milestone2.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\obj\Debug\net6.0\_1903966_Milestone2.Utilities.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\obj\Debug\net6.0\refint\_1903966_Milestone2.Utilities.dll
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\obj\Debug\net6.0\_1903966_Milestone2.Utilities.pdb
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\obj\Debug\net6.0\_1903966_Milestone2.Utilities.genruntimeconfig.cache
+C:\Users\reonr\source\repos\3\_1903966_Milestone2.Utilities\obj\Debug\net6.0\ref\_1903966_Milestone2.Utilities.dll
